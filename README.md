@@ -18,11 +18,11 @@ A chess reinforcement learning model using AlphaGo methods. Here
 Here you can see a snap of our working model
 ![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss1.png)
 ![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss2.png)
-![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss3.png)
-![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss4.png)
-![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss5.png)
-![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss6.png)
-![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss7.png)
+![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss3.jpeg)
+![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss4.jpeg)
+![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss5.jpeg)
+![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss6.jpeg)
+![image](https://raw.githubusercontent.com/shreyaspapi/flask-chess-ai/master/ss7.jpeg)
 
 ## GUI :
 
